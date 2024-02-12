@@ -1,6 +1,6 @@
 {
     "host":"localhost",
-    "user":"root",
+    "user":"",
     "password":"",
     "db_name":"DwesBd04"
 }
