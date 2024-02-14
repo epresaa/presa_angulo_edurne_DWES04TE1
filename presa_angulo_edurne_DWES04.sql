@@ -1,12 +1,12 @@
 -- --------------------------------------------------------
--- Base de datos: `DwesBd04`
+-- Base de datos: `presa_angulo_edurne_DWES04`
 -- --------------------------------------------------------
 
 --
 -- CREACION BD
 --
-CREATE DATABASE IF NOT EXISTS DwesBd04;
-USE DwesBd04;
+CREATE DATABASE IF NOT EXISTS presa_angulo_edurne_DWES04;
+USE presa_angulo_edurne_DWES04;
 
 -- --------------------------------------------------------
 --

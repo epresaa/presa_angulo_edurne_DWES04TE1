@@ -1,6 +1,6 @@
 {
     "host":"localhost",
-    "user":"",
+    "user":"root",
     "password":"",
-    "db_name":"DwesBd04"
+    "db_name":"presa_angulo_edurne_DWES04"
 }
